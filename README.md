@@ -10,6 +10,10 @@ A lightweight React hook that tracks reading progress within a specific scrollab
 - 📦 Zero dependencies
 - 🔧 TypeScript support
 
+## Demo
+
+Check out the [Demo](https://y4shvine.github.io/react-container-reading-progress/) to see it in action!
+
 ## Installation
 
 ```bash
